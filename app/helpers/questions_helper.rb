@@ -21,5 +21,4 @@ def coach_answer_enhanced(your_message)
     ""
   end
 end
-
 end
